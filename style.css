@@ -342,6 +342,7 @@
     .audience-grid {
       grid-template-columns: repeat(3, minmax(0, 1fr));
       margin-top: 34px;
+      margin-bottom: 28px;
     }
 
     .audience-item {
